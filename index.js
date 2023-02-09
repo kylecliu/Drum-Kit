@@ -32,7 +32,7 @@ function makeSoundButton(innerHTML) {
             var audio = new Audio("sounds/snare.mp3");
             audio.play(); 
             break;
-        case "v":
+        case "f":
             var audio = new Audio("sounds/tom-1.mp3");
             audio.play(); 
             break;
